@@ -1,4 +1,4 @@
-To run your Virtual Mouse Project, you need to install several Python libraries. Here's a list of the dependencies and the corresponding commands to install them.
+ # To run your Virtual Mouse Project, you need to install several Python libraries. Here's a list of the dependencies and the corresponding commands to install them.
  # ( starting with # are the commands for dependencies to run in terminal )
 ✅ 1. Install Required Dependencies
 🔹 1. OpenCV (for image processing)
